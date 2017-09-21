@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Main {
+public class TheGreatest066 {
 
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<Integer>();
