@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.ArrayList;
 
 public class TheLengthOfAName047 {
 
@@ -13,4 +14,3 @@ public class TheLengthOfAName047 {
         return text.length();
     }
 }
-
