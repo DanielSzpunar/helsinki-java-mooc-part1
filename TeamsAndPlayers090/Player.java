@@ -1,3 +1,5 @@
+
+
 public class Player {
     private String name;
     private int goals;
@@ -18,8 +20,4 @@ public class Player {
     public String toString() {
         return "Player: " + this.name + ", goals " + this.goals;
     }
-    public void printPlayers() {
-
-    }
 }
-
