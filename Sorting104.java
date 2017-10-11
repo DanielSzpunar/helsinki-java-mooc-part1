@@ -61,6 +61,9 @@ public class Sorting104 {
         array[num1] = array[num2];
         array[num2] = temp;
     }
+    /*
+    This is interesting.  Use the smallestIndexFrom method to determine the index with the smallest value.  Then we replace it with i.  Since i starts at zero and iterates the length of the array we can easily sort them in order form lowest to highest through the for loop.
+     */
     public static void sort(int[] array) {
         for(int i = 0; i < array.length; i++) {
             System.out.println(Arrays.toString(array));
